@@ -16,4 +16,14 @@ people.insert(1, "USB")
 
 people.remove("Sam")
 print(people)
-print(people.index("SB"))0
+print(people.index("SB"))
+
+#tuple
+
+tup1 = ('Google', 'Bing', 1997, 2000)
+tup2 = (1, 2, 3, 4, 5, 6, 7 )
+ 
+print ("tup1[0]: ", tup1[0])
+print ("tup2[1:5]: ", tup2[1:5])
+
+#Functions
